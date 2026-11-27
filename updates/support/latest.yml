@@ -1,0 +1,8 @@
+version: 1.0.4
+files:
+  - url: https://github.com/chiefbryn/alltechs-downloads/releases/download/support-v1.0.4/AllTechs-Support-Setup.exe
+    sha512: ooNJkL1Pvd2SrzzwTG/P21ns7sWhNLZs9kiqbwV9JzBeN5/v0XKJJz+OXv+VTi7mLXCzU1nrjXA6LUfmztaSJg==
+    size: 121889800
+path: https://github.com/chiefbryn/alltechs-downloads/releases/download/support-v1.0.4/AllTechs-Support-Setup.exe
+sha512: ooNJkL1Pvd2SrzzwTG/P21ns7sWhNLZs9kiqbwV9JzBeN5/v0XKJJz+OXv+VTi7mLXCzU1nrjXA6LUfmztaSJg==
+releaseDate: '2026-11-27T08:59:46.547Z'
