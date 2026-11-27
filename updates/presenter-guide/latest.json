@@ -1,11 +1,11 @@
 {
-  "version": "0.8.0",
-  "notes": "One-click updates, and sign-in with your Chief Alltechs account (one account for Presenter Guide and Research Hub). You stay signed in on this PC for 14 days, also offline.",
-  "pub_date": "2026-11-27T11:26:51Z",
+  "version": "0.9.0",
+  "notes": "Listening time: 10 free minutes per account, then 3 hours for GHS 40 (use within 7 days). Only live listening counts; when time runs out, listening pauses with nothing lost and resumes as soon as you buy.",
+  "pub_date": "2026-11-27T23:34:22Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdkNVay9XY092aE9NcnV3bWh3ZmFCOUJkWEIwdkoraUx6b3ZYcmkvWTdiNFA5OVZrTVVVQThPN3ZhZ1V0OWU4R1c5VVdoWUI2TU5TRGQwL1RBU3diRHZIbzJMbkJMSWc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc4ODEwCWZpbGU6QWxsdGVjaHMgUHJlc2VudGVyIEd1aWRlXzAuOC4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjguMApLTnZmeGx0MWl1YUYzMGdwYk5SaUFmNDdaZ0NIK3dqZ0d0Z1VRVHJIZThHTWt2MjNQcnN4RHJnVHFVVC9QOXNLVDNnKzdnME5wdjVyL2xGRENsWk9CUT09Cg==",
-      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/presenter-guide-v0.8.0/AllTechs-Presenter-Guide-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdkNVay9XY092aE4xa0Z6T2lOeFJ2b1Q3cjU5WDNoZzhhYTJVeHBsZm5WYlB5dzdhcUxNTFp2K1ZzMFgvVDdIMExUSzBDTDltMHJDYWF5YUhnZFdiNXBmbnkyNjREZ0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODIyNDYyCWZpbGU6QWxsdGVjaHMgUHJlc2VudGVyIEd1aWRlXzAuOS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMApJcG5SL1BoN05PU3hhMHlxbHBQa2VtSGdvM0pEelBrYm13RW10U0VKeEx4M1BOeHNkTHRXMkYzWEp3UFdNQjE1NWt0MFhCSW9TaWlONGZ1eXdFdE9DZz09Cg==",
+      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/presenter-guide-v0.9.0/AllTechs-Presenter-Guide-Setup.exe"
     }
   }
 }
