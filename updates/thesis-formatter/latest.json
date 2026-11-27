@@ -1,11 +1,11 @@
 {
-  "version": "0.4.0",
-  "notes": "Sign-in: Research Hub now uses your Chief Alltechs account (one account for Research Hub and Presenter Guide). You stay signed in on this PC for 14 days, also offline. Convert now has the Word comments option, off by default.",
-  "pub_date": "2026-11-27T11:22:33Z",
+  "version": "0.4.1",
+  "notes": "Cover and title page laid out like the accepted theses, in your own words: the right order, sizes, capitals and spacing; colours, odd fonts and blank lines tidied; the school logo resized like the accepted covers, or removed where they have none.",
+  "pub_date": "2026-11-27T18:42:16Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWU5SZFkvZWNEZms0aFRYMlJzY2FjM0dLSy8vL1VWVHFIVStkRjhzNFZNYjlIOSt4enBQeGFWaW03NnpzaENEZ1BoWVRaUE1tMlJ0Tm1jbjdZQjh4UEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc4NTUzCWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjAKdEozWklZZ2xrckl3RW8yS052NDRuOGlDcDhlbnhqT0paTkMzbkJKT2dMUG90QXRUNStaZTBlSjRCMkhwZE1VZkl6dW1XMFVldWpTVWlVaXp6VGo3RHc9PQo=",
-      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.4.0/AllTechs-Thesis-Formatter-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWUlRV3hmSTdJc2RZcE9qMkVSVlVjWmxkMFNncENQUnRYNVQ1UkYxV1BzTXZTNGxiMUVJcERkWWgwVHpVU202dDRFWitPaXZsamlYQjV6Vi94eDltL3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA0OTM1CWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEKdzJ3ZG9jY0xhM2l0K1AwMlRTNVVkVEduYmp3eDluRExKTnZ5OU5OY0trWG5FQ1dTMVdtdDdtQXo3M29RVjNlbmtYUkJlSWNXUUxDTVg1K1pyVDhZQVE9PQo=",
+      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.4.1/AllTechs-Thesis-Formatter-Setup.exe"
     }
   }
 }
