@@ -1,11 +1,11 @@
 {
-  "version": "0.4.3",
-  "notes": "Cover, copyright page, title page and declaration rebuilt in the exact UCC layout and filled with your own details; anything missing is highlighted for you to fill in and listed in the report.",
-  "pub_date": "2026-11-27T20:48:21Z",
+  "version": "0.4.4",
+  "notes": "Downloading the formatted thesis now costs GHS 25 per thesis (7 downloads within 7 days); formatting and the check report stay free.",
+  "pub_date": "2026-11-27T22:51:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWUwvOUVrZjluUDh3WXZ0Q3pFMi91b2VPTDJOQXZBQWg1VUlVQ0VRMnpXaU9vNTh1ZC9VSmFtbDgrUmVFYzl1WHVHMlJkS1pscVNORjZqZXJwOWxDYXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODEyNTAwCWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjQuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjMKbnV3a0lHM0Y2NXdhZ1V4UjdDZE5WU05WQktPaEJNVGg4U1RGaUxPTUE4SUJUMjhYWG04eUVPbWl1TTdBajhzblBhWGw5dnlyRTgreCtTYlFQdHhERHc9PQo=",
-      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.4.3/AllTechs-Thesis-Formatter-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWUh2aTFsV0pKNDZJQTFyTmwxbFo4elBGRm9DaVIwd3Q5WGxiWlREUGJ6UHN0K3FOOHhQdFI0TUdmMFM2ZkJwSHpENmNDaFh1aDZhWnBZRW1mSlhLVlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODE5ODkyCWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjQuNF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjQKWTMwc0xUOTlhcUtTVm5MM3JFVkp6cVB3RVZ6QlVTeHE3STN0M1lCWjYxZ0VLWHhzWmZZU05jN2FjRW5pOTlWTHp3bXFuenpVeEhQcFlmSExnTTR4Q3c9PQo=",
+      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.4.4/AllTechs-Thesis-Formatter-Setup.exe"
     }
   }
 }
