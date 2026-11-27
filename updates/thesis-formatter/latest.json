@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "notes": "Cover and title page laid out like the accepted theses, in your own words: the right order, sizes, capitals and spacing; colours, odd fonts and blank lines tidied; the school logo resized like the accepted covers, or removed where they have none.",
-  "pub_date": "2026-11-27T18:42:16Z",
+  "version": "0.4.2",
+  "notes": "Cover and title page rebuilt from the accepted UCC theses (learned from 24, including 20 from 2025): only the accepted parts stay, in the accepted order and style; logos, college or department lines, course codes and index numbers are removed and listed in the report. Blank pages in the preliminary pages fixed.",
+  "pub_date": "2026-11-27T20:19:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWUlRV3hmSTdJc2RZcE9qMkVSVlVjWmxkMFNncENQUnRYNVQ1UkYxV1BzTXZTNGxiMUVJcERkWWgwVHpVU202dDRFWitPaXZsamlYQjV6Vi94eDltL3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODA0OTM1CWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjQuMV94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjEKdzJ3ZG9jY0xhM2l0K1AwMlRTNVVkVEduYmp3eDluRExKTnZ5OU5OY0trWG5FQ1dTMVdtdDdtQXo3M29RVjNlbmtYUkJlSWNXUUxDTVg1K1pyVDhZQVE9PQo=",
-      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.4.1/AllTechs-Thesis-Formatter-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWUpFUktRWXRJT1ZjQ1dJdWNxMEoydVgyQU9nS0t5dWNyakg1NDJNRDhoWHpwQjcvNnVkUXc4M256cXFGKzFST0VDK2JJK3kxVFY3dDhhRzRDWW5wTHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODEwNzQzCWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjQuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjIKRy94VjRsZ2s1VUJRMUxobU0vaHJHaG1iNFlKMHhrQzkwdGZUQkpnMS9XajNFQnhxM3JpVVp3UjNsejZGdTVyVXBBdThhbFRSbGNlVkNsTzJkUXNHQXc9PQo=",
+      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.4.2/AllTechs-Thesis-Formatter-Setup.exe"
     }
   }
 }
