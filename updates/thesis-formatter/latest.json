@@ -1,11 +1,11 @@
 {
-  "version": "0.3.0",
-  "notes": "One-click updates: the app now tells you when a new version is ready and installs it for you. Your profiles and settings are kept. The Word comments option is now off by default.",
-  "pub_date": "2026-11-27T10:22:37Z",
+  "version": "0.4.0",
+  "notes": "Sign-in: Research Hub now uses your Chief Alltechs account (one account for Research Hub and Presenter Guide). You stay signed in on this PC for 14 days, also offline. Convert now has the Word comments option, off by default.",
+  "pub_date": "2026-11-27T11:22:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWUJOYW5SSVFjWFVHU094eTlaMTBaUnhGcGh5YzhRdFRBci85MDluRDZYNndtVGNuSVV2ZXJjamhYYjdLTGNEd1RybkRRWGtvamJWWlFTWmUxSkxpNVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc0OTU2CWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKcnR3TGtIRTgxZXhsQWFWK0ZhK1JPYlRGdWtlVnN1NW55Qzd5R0JKcHk2WmFrdHFGZndaQmEvT3MvWHVPWHlTUVBvT0xqaUV0UEY5bHpaZ3poMnVQQ3c9PQo=",
-      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.3.0/AllTechs-Thesis-Formatter-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWU5SZFkvZWNEZms0aFRYMlJzY2FjM0dLSy8vL1VWVHFIVStkRjhzNFZNYjlIOSt4enBQeGFWaW03NnpzaENEZ1BoWVRaUE1tMlJ0Tm1jbjdZQjh4UEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1Nzc4NTUzCWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjQuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjAKdEozWklZZ2xrckl3RW8yS052NDRuOGlDcDhlbnhqT0paTkMzbkJKT2dMUG90QXRUNStaZTBlSjRCMkhwZE1VZkl6dW1XMFVldWpTVWlVaXp6VGo3RHc9PQo=",
+      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.4.0/AllTechs-Thesis-Formatter-Setup.exe"
     }
   }
 }
