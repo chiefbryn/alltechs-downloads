@@ -1,11 +1,11 @@
 {
-  "version": "0.4.2",
-  "notes": "Cover and title page rebuilt from the accepted UCC theses (learned from 24, including 20 from 2025): only the accepted parts stay, in the accepted order and style; logos, college or department lines, course codes and index numbers are removed and listed in the report. Blank pages in the preliminary pages fixed.",
-  "pub_date": "2026-11-27T20:19:04Z",
+  "version": "0.4.3",
+  "notes": "Cover, copyright page, title page and declaration rebuilt in the exact UCC layout and filled with your own details; anything missing is highlighted for you to fill in and listed in the report.",
+  "pub_date": "2026-11-27T20:48:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWUpFUktRWXRJT1ZjQ1dJdWNxMEoydVgyQU9nS0t5dWNyakg1NDJNRDhoWHpwQjcvNnVkUXc4M256cXFGKzFST0VDK2JJK3kxVFY3dDhhRzRDWW5wTHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODEwNzQzCWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjQuMl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjIKRy94VjRsZ2s1VUJRMUxobU0vaHJHaG1iNFlKMHhrQzkwdGZUQkpnMS9XajNFQnhxM3JpVVp3UjNsejZGdTVyVXBBdThhbFRSbGNlVkNsTzJkUXNHQXc9PQo=",
-      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.4.2/AllTechs-Thesis-Formatter-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSSTdSVnpRQlYxWUwvOUVrZjluUDh3WXZ0Q3pFMi91b2VPTDJOQXZBQWg1VUlVQ0VRMnpXaU9vNTh1ZC9VSmFtbDgrUmVFYzl1WHVHMlJkS1pscVNORjZqZXJwOWxDYXdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODEyNTAwCWZpbGU6QWxsdGVjaHMgVGhlc2lzIEZvcm1hdHRlcl8wLjQuM194NjQtc2V0dXAuZXhlCXZlcnNpb246MC40LjMKbnV3a0lHM0Y2NXdhZ1V4UjdDZE5WU05WQktPaEJNVGg4U1RGaUxPTUE4SUJUMjhYWG04eUVPbWl1TTdBajhzblBhWGw5dnlyRTgreCtTYlFQdHhERHc9PQo=",
+      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/thesis-formatter-v0.4.3/AllTechs-Thesis-Formatter-Setup.exe"
     }
   }
 }
