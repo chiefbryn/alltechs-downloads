@@ -1,11 +1,11 @@
 {
-  "version": "0.9.1",
-  "notes": "Security update: the libraries that read your slides, PDFs and Word files are upgraded to fix known flaws that a specially crafted file could use to crash the app. Nothing else changes.",
-  "pub_date": "2026-11-28T00:53:50Z",
+  "version": "0.9.2",
+  "notes": "Privacy fix: the presenter window and the prompter are checked every 2 seconds and kept hidden from screen sharing if Windows drops the setting (for example after Windows+P or a projector is connected). Opening the app a second time now brings the running window forward instead of starting another copy. Fixes a false warning when hiding the prompter.",
+  "pub_date": "2026-11-28T12:15:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdkNVay9XY092aEE0NDQ0RTB5aTVCSGJSZWh3U3pkQlN3Nm51Uk9oeTMzRjhRTHZJRmhBNVVaVE1JdEhZcDh1cU5LcjlzYUNMY1pzRzc4WURsTVZySEtQOHpTNklDMXdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODI3MjMwCWZpbGU6QWxsdGVjaHMgUHJlc2VudGVyIEd1aWRlXzAuOS4xX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMQo3TjgxZjVCUkV2bEFVS3Arc0R5cXNjQ3RsZlVQVXBXdmQrVTZsWXRHQ2dmM1FjMTJGdXR5VHhGd1RzdGJ3elZZT2JJUmhpYlVUbDIyRVhIUHU4QmdBdz09Cg==",
-      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/presenter-guide-v0.9.1/AllTechs-Presenter-Guide-Setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRdkNVay9XY092aEdIUGN4NU1zbDRBNElDaW5zejRVRWpzWTJOZi9PaU5KU2EvMEdNaGRuUGpKTzFhR0pua1hvaTdlN256SGp0KzJBNE9zcUR4SlhablpUaVI1U3pacHc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1ODY4MTA0CWZpbGU6QWxsdGVjaHMgUHJlc2VudGVyIEd1aWRlXzAuOS4yX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjkuMgpxWkhxSzBvRTdtWWQvYUd0Mkp4aDVxekpFMXd5aXpkTXFGRDF1TUZwVFVWTlVlY2JKMUVSN1dOaWgzYUVBWXRuZ3lwN2FRZ3NKdFlkMW90MVB4OHdEUT09Cg==",
+      "url": "https://github.com/chiefbryn/alltechs-downloads/releases/download/presenter-guide-v0.9.2/AllTechs-Presenter-Guide-Setup.exe"
     }
   }
 }
